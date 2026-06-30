@@ -2,7 +2,6 @@
 
 > A fully functional interactive website mockup built from scratch using pure HTML, CSS, and Vanilla JavaScript.
 
-![Portfolio Screenshot](screenshot1.png)
 
 ---
 
