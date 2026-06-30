@@ -55,11 +55,11 @@
 
 | Experience Section | Projects Section |
 |--------------------|------------------|
-| ![Experience](experience-screenshot.png) | ![Projects](projects-screenshot.png) |
+| ![Experience](experience-section.png) | ![Projects](projects-section.png) |
 
 | Contact Section | Mobile View |
 |-----------------|-------------|
-| ![Contact](contact-screenshot.png) | ![Mobile](mobile-view.png) |
+| ![Contact](contact-section.png) | ![Mobile](mobile-view.png) |
 
 *(Replace with actual screenshot file names if you have them)*
 
