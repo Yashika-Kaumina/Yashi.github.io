@@ -47,9 +47,19 @@
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 | Home Section | About Section |
 |--------------|---------------|
-| ![Home](https://via.placeholder.com/400x200?text=Home+Section) | ![About](https://via.placeholder.com/400x200?text=About+Section) |
+| ![Home](home-screenshot.png) | ![About](about-screenshot.png) |
+
+| Experience Section | Projects Section |
+|--------------------|------------------|
+| ![Experience](experience-screenshot.png) | ![Projects](projects-screenshot.png) |
+
+| Contact Section | Mobile View |
+|-----------------|-------------|
+| ![Contact](contact-screenshot.png) | ![Mobile](mobile-view.png) |
 
 *(Replace with actual screenshot file names if you have them)*
 
