@@ -51,7 +51,7 @@
 
 | Home Section | About Section |
 |--------------|---------------|
-| ![Home](home-section.png) | ![About](about-screenshot.png) |
+| ![Home](home-section.png) | ![About](about-section.png) |
 
 | Experience Section | Projects Section |
 |--------------------|------------------|
