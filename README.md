@@ -44,9 +44,6 @@
 > ⚠️ **Note:** Replace the link above with your actual GitHub Pages URL if different.
 
 ---
-
-## 📸 Screenshots
-
 ## 📸 Screenshots
 
 | Home Section | About Section |
