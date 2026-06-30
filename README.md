@@ -38,7 +38,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Demo](https://Yashika-Kaumina.github.io)** 
+🔗 **[View Live Demo]([https://Yashika-Kaumina.github.io](https://yashika-kaumina.github.io/Yashi.github.io/))** 
 
 > ⚠️ **Note:** Replace the link above with your actual GitHub Pages URL if different.
 
