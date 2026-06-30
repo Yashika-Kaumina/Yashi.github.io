@@ -2,6 +2,7 @@
 
 > A fully functional interactive website mockup built from scratch using pure HTML, CSS, and Vanilla JavaScript.
 
+![Portfolio Screenshot](https://via.placeholder.com/800x400?text=Portfolio+Mockup+Preview)
 
 ---
 
@@ -33,16 +34,14 @@
 ## 📁 Project Structure
 
 
-
 ---
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Demo]([https://Yashika-Kaumina.github.io](https://yashika-kaumina.github.io/Yashi.github.io/))** 
-
-> ⚠️ **Note:** Replace the link above with your actual GitHub Pages URL if different.
+🔗 **[View Live Demo](https://yashika-kaumina.github.io/Yashi.github.io/)**
 
 ---
+
 ## 📸 Screenshots
 
 | Home Section | About Section |
@@ -65,7 +64,4 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Yashika-Kaumina/Yashika.github.io.git
-
-
-   
+   git clone https://github.com/Yashika-Kaumina/Yashi.github.io.git
